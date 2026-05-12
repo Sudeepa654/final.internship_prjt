@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_options">
+        <item>Sunny</item>
+        <item>Partly Cloudy</item>
+        <item>Cloudy</item>
+        <item>Rainy</item>
+    </string-array>
+    <color name="cloud_gray">#A3A3A3</color>
+    <color name="grid_red">#FF5C5C</color>
+    <color name="input_black">#080808</color>
+    <color name="meter_green">#36D399</color>
+    <color name="night_black">#050505</color>
+    <color name="panel_black">#111111</color>
+    <color name="panel_raised">#1A1A1A</color>
+    <color name="solar_yellow">#FFD60A</color>
+    <color name="sun_yellow_dark">#C99700</color>
+    <color name="text_muted">#D7D7D7</color>
+    <color name="text_white">#FFFFFF</color>
+    <string name="app_name">suryashaktimain</string>
+    <string name="battery_rate">Battery and Tariff</string>
+    <string name="calculate_budget">Calculate Energy Budget</string>
+    <string name="consumption_tracker">Consumption Tracker</string>
+    <string name="generation_log">Generation Log</string>
+    <string name="savings_report">Savings Report</string>
+    <string name="simulate_generation">Simulate Weather Generation</string>
+    <string name="subtitle">Personal Visual Energy Budget</string>
+    <string name="title">Surya-Shakti Solar Monitor</string>
+    <style name="Theme.SuryaShaktiMain" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowBackground">@color/night_black</item>
+        <item name="android:navigationBarColor">@color/night_black</item>
+        <item name="android:statusBarColor">@color/night_black</item>
+        <item name="android:colorAccent">@color/solar_yellow</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

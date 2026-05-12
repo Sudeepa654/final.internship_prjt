@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainScroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/night_black"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="18dp">
+
+        <TextView
+            android:id="@+id/titleText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/title"
+            android:textColor="@color/solar_yellow"
+            android:textSize="27sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/subtitleText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="@string/subtitle"
+            android:textColor="@color/text_muted"
+            android:textSize="15sp" />
+
+        <LinearLayout
+            android:id="@+id/gaugePanel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18dp"
+            android:background="@drawable/panel_background"
+            android:orientation="vertical">
+
+            <com.example.suryashaktimain.SolarRatioGaugeView
+                android:id="@+id/energyGauge"
+                android:layout_width="match_parent"
+                android:layout_height="230dp" />
+
+            <TextView
+                android:id="@+id/scoreText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Green Independence: 0%"
+                android:textColor="@color/solar_yellow"
+                android:textSize="21sp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:baselineAligned="false"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/netUsageText"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="Net Use\n0.0 kWh"
+                    android:textColor="@color/text_white"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/savingsText"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="Saved Today\nRs. 0"
+                    android:textColor="@color/meter_green"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/gridStatusText"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="Grid Use\n0.0 kWh"
+                    android:textColor="@color/grid_red"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/suggestionText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="14dp"
+            android:background="@drawable/suggestion_background"
+            android:text="High Sun: Ideal time for heavy appliances."
+            android:textColor="@color/night_black"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/exportText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/export_background"
+            android:text="Export Status: No surplus energy yet."
+            android:textColor="@color/text_white"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:id="@+id/inputPanel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/panel_background"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/generation_log"
+                android:textColor="@color/solar_yellow"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <Spinner
+                android:id="@+id/weatherSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/input_background"
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp"
+                android:popupBackground="@color/panel_black" />
+
+            <EditText
+                android:id="@+id/generationInput"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/input_background"
+                android:hint="Solar produced today (kWh)"
+                android:inputType="numberDecimal"
+                android:textColor="@color/text_white"
+                android:textColorHint="@color/cloud_gray"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/simulateButton"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_secondary"
+                android:text="@string/simulate_generation"
+                android:textAllCaps="false"
+                android:textColor="@color/solar_yellow"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="18dp"
+                android:text="@string/consumption_tracker"
+                android:textColor="@color/solar_yellow"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/previousMeterInput"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/input_background"
+                android:hint="Previous meter reading"
+                android:inputType="numberDecimal"
+                android:textColor="@color/text_white"
+                android:textColorHint="@color/cloud_gray"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/currentMeterInput"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/input_background"
+                android:hint="Current meter reading"
+                android:inputType="numberDecimal"
+                android:textColor="@color/text_white"
+                android:textColorHint="@color/cloud_gray"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="18dp"
+                android:text="@string/battery_rate"
+                android:textColor="@color/solar_yellow"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/batteryInput"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/input_background"
+                android:hint="Battery level (%)"
+                android:inputType="numberDecimal"
+                android:maxLength="3"
+                android:textColor="@color/text_white"
+                android:textColorHint="@color/cloud_gray"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/rateInput"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/input_background"
+                android:hint="Electricity rate per unit"
+                android:inputType="numberDecimal"
+                android:textColor="@color/text_white"
+                android:textColorHint="@color/cloud_gray"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/calculateButton"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:layout_marginTop="14dp"
+                android:background="@drawable/button_primary"
+                android:text="@string/calculate_budget"
+                android:textAllCaps="false"
+                android:textColor="@color/night_black"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/reportPanel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/panel_background"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/savings_report"
+                android:textColor="@color/solar_yellow"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/reportText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:lineSpacingExtra="4dp"
+                android:text="30-day savings will appear after calculation."
+                android:textColor="@color/text_white"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="20dp" />
+    </LinearLayout>
+</ScrollView>

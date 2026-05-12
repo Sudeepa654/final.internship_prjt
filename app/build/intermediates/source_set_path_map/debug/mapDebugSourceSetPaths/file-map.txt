@@ -1,0 +1,61 @@
+com.example.suryashaktimain.app-material-icons-extended-release-0 C:\Users\ADMIN\.gradle\caches\8.13\transforms\0a591ec101ed44db71522b321255f49e\transformed\material-icons-extended-release\res
+com.example.suryashaktimain.app-lifecycle-viewmodel-release-1 C:\Users\ADMIN\.gradle\caches\8.13\transforms\1bd0c599036a846f9964713817c63c0a\transformed\lifecycle-viewmodel-release\res
+com.example.suryashaktimain.app-graphics-path-1.0.1-2 C:\Users\ADMIN\.gradle\caches\8.13\transforms\1ccad7e994b2200b0c726b52bde554fb\transformed\graphics-path-1.0.1\res
+com.example.suryashaktimain.app-customview-poolingcontainer-1.0.0-3 C:\Users\ADMIN\.gradle\caches\8.13\transforms\1d86f6971197c010906ac2b5d04a6d3c\transformed\customview-poolingcontainer-1.0.0\res
+com.example.suryashaktimain.app-sqlite-2.4.0-4 C:\Users\ADMIN\.gradle\caches\8.13\transforms\20967aecb84ae7bdf25c4a1f25785d71\transformed\sqlite-2.4.0\res
+com.example.suryashaktimain.app-runtime-release-5 C:\Users\ADMIN\.gradle\caches\8.13\transforms\263cf32b57854abde4fdaca533ecf949\transformed\runtime-release\res
+com.example.suryashaktimain.app-material3-release-6 C:\Users\ADMIN\.gradle\caches\8.13\transforms\34699632f65a5a88e71627610b70d6b9\transformed\material3-release\res
+com.example.suryashaktimain.app-foundation-release-7 C:\Users\ADMIN\.gradle\caches\8.13\transforms\3790b725eb65fd31debe649d89a82894\transformed\foundation-release\res
+com.example.suryashaktimain.app-activity-1.9.3-8 C:\Users\ADMIN\.gradle\caches\8.13\transforms\39e00a5ea6e377d23307546300c93056\transformed\activity-1.9.3\res
+com.example.suryashaktimain.app-runtime-saveable-release-9 C:\Users\ADMIN\.gradle\caches\8.13\transforms\4647ab82fb3190e35e74247e83068616\transformed\runtime-saveable-release\res
+com.example.suryashaktimain.app-core-1.15.0-10 C:\Users\ADMIN\.gradle\caches\8.13\transforms\492c56e4a68fd2dc0cc3288bf47a08e9\transformed\core-1.15.0\res
+com.example.suryashaktimain.app-material-release-11 C:\Users\ADMIN\.gradle\caches\8.13\transforms\4d8a5d7a4988601155beea936bb2324a\transformed\material-release\res
+com.example.suryashaktimain.app-startup-runtime-1.1.1-12 C:\Users\ADMIN\.gradle\caches\8.13\transforms\548f549910e6bb906657a884215a314d\transformed\startup-runtime-1.1.1\res
+com.example.suryashaktimain.app-navigation-compose-2.8.5-13 C:\Users\ADMIN\.gradle\caches\8.13\transforms\558e2f78dcd174f30c708e256f414fb0\transformed\navigation-compose-2.8.5\res
+com.example.suryashaktimain.app-lifecycle-viewmodel-ktx-2.8.7-14 C:\Users\ADMIN\.gradle\caches\8.13\transforms\5863ec48f48656b2d723a61c6477b274\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.example.suryashaktimain.app-emoji2-1.3.0-15 C:\Users\ADMIN\.gradle\caches\8.13\transforms\5b72002cad112e04beff70394888aa2b\transformed\emoji2-1.3.0\res
+com.example.suryashaktimain.app-core-runtime-2.2.0-16 C:\Users\ADMIN\.gradle\caches\8.13\transforms\602b4926391e0c8ba161c0852327dc50\transformed\core-runtime-2.2.0\res
+com.example.suryashaktimain.app-room-runtime-2.6.1-17 C:\Users\ADMIN\.gradle\caches\8.13\transforms\612c27f3d2087e8267ecd1d65075ee13\transformed\room-runtime-2.6.1\res
+com.example.suryashaktimain.app-lifecycle-viewmodel-savedstate-2.8.7-18 C:\Users\ADMIN\.gradle\caches\8.13\transforms\61d88dabec62f0eb8192dd3ef23ebfe2\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.example.suryashaktimain.app-lifecycle-runtime-ktx-release-19 C:\Users\ADMIN\.gradle\caches\8.13\transforms\69671831101bce4e1261ffbe9246ac58\transformed\lifecycle-runtime-ktx-release\res
+com.example.suryashaktimain.app-navigation-common-ktx-2.8.5-20 C:\Users\ADMIN\.gradle\caches\8.13\transforms\6ae773526cf29e406479ae219e961d7f\transformed\navigation-common-ktx-2.8.5\res
+com.example.suryashaktimain.app-lifecycle-runtime-release-21 C:\Users\ADMIN\.gradle\caches\8.13\transforms\72d39ccd3fc1cb2ec139f9c17b30307c\transformed\lifecycle-runtime-release\res
+com.example.suryashaktimain.app-profileinstaller-1.3.1-22 C:\Users\ADMIN\.gradle\caches\8.13\transforms\768704e0493216741c72c1bf19a824f6\transformed\profileinstaller-1.3.1\res
+com.example.suryashaktimain.app-ui-tooling-data-release-23 C:\Users\ADMIN\.gradle\caches\8.13\transforms\7e1f5fa2ca0934833c94c446ce92b6e3\transformed\ui-tooling-data-release\res
+com.example.suryashaktimain.app-ui-release-24 C:\Users\ADMIN\.gradle\caches\8.13\transforms\84ba6545d199e6906c21f5dafe6cdd74\transformed\ui-release\res
+com.example.suryashaktimain.app-annotation-experimental-1.4.1-25 C:\Users\ADMIN\.gradle\caches\8.13\transforms\86ffea0b02f95baa64d410e757d2d92e\transformed\annotation-experimental-1.4.1\res
+com.example.suryashaktimain.app-navigation-runtime-ktx-2.8.5-26 C:\Users\ADMIN\.gradle\caches\8.13\transforms\8d7a2047494604f43bef59966f126e65\transformed\navigation-runtime-ktx-2.8.5\res
+com.example.suryashaktimain.app-ui-tooling-preview-release-27 C:\Users\ADMIN\.gradle\caches\8.13\transforms\8dec944dd698550bfe8adbfdb2294b61\transformed\ui-tooling-preview-release\res
+com.example.suryashaktimain.app-material-icons-core-release-28 C:\Users\ADMIN\.gradle\caches\8.13\transforms\8ee79172c6e25be319d993652b63afca\transformed\material-icons-core-release\res
+com.example.suryashaktimain.app-navigation-common-2.8.5-29 C:\Users\ADMIN\.gradle\caches\8.13\transforms\96e0b135319ea01a71888553b53f796c\transformed\navigation-common-2.8.5\res
+com.example.suryashaktimain.app-ui-text-release-30 C:\Users\ADMIN\.gradle\caches\8.13\transforms\99bdf4d2d2351b12cc160c8fab812763\transformed\ui-text-release\res
+com.example.suryashaktimain.app-room-ktx-2.6.1-31 C:\Users\ADMIN\.gradle\caches\8.13\transforms\9bc43e95ad16181285b5bf0acbd823ef\transformed\room-ktx-2.6.1\res
+com.example.suryashaktimain.app-tracing-1.2.0-32 C:\Users\ADMIN\.gradle\caches\8.13\transforms\9e99ba66cc31d5db672790035c1f6c48\transformed\tracing-1.2.0\res
+com.example.suryashaktimain.app-lifecycle-runtime-compose-release-33 C:\Users\ADMIN\.gradle\caches\8.13\transforms\a3d24cc9f2fa5069769013123e44d022\transformed\lifecycle-runtime-compose-release\res
+com.example.suryashaktimain.app-animation-release-34 C:\Users\ADMIN\.gradle\caches\8.13\transforms\a3f237fd65c9560fbee808b77683e1d6\transformed\animation-release\res
+com.example.suryashaktimain.app-foundation-layout-release-35 C:\Users\ADMIN\.gradle\caches\8.13\transforms\af6204920119426742a46f4a041b1a9c\transformed\foundation-layout-release\res
+com.example.suryashaktimain.app-ui-unit-release-36 C:\Users\ADMIN\.gradle\caches\8.13\transforms\b49fe16a18ed987bea13473894b3f894\transformed\ui-unit-release\res
+com.example.suryashaktimain.app-activity-ktx-1.9.3-37 C:\Users\ADMIN\.gradle\caches\8.13\transforms\b6552b77bb14a1d04a2a08e56f3b21d9\transformed\activity-ktx-1.9.3\res
+com.example.suryashaktimain.app-savedstate-ktx-1.2.1-38 C:\Users\ADMIN\.gradle\caches\8.13\transforms\b69de589e6e72ef4ac02813158394970\transformed\savedstate-ktx-1.2.1\res
+com.example.suryashaktimain.app-material-ripple-release-39 C:\Users\ADMIN\.gradle\caches\8.13\transforms\c137f1d66ad69563ae651c7eaac3b567\transformed\material-ripple-release\res
+com.example.suryashaktimain.app-savedstate-1.2.1-40 C:\Users\ADMIN\.gradle\caches\8.13\transforms\c9a81d6b0c96c43d23ba79ed42b05d4d\transformed\savedstate-1.2.1\res
+com.example.suryashaktimain.app-activity-compose-1.9.3-41 C:\Users\ADMIN\.gradle\caches\8.13\transforms\d0ed3b588be1776b4c6c87db67e42c0c\transformed\activity-compose-1.9.3\res
+com.example.suryashaktimain.app-ui-tooling-release-42 C:\Users\ADMIN\.gradle\caches\8.13\transforms\d7db0e3231a1a7c896201e22ebbd5d3a\transformed\ui-tooling-release\res
+com.example.suryashaktimain.app-sqlite-framework-2.4.0-43 C:\Users\ADMIN\.gradle\caches\8.13\transforms\d90cc67b70dfd7f815b1ec2a2ce1c069\transformed\sqlite-framework-2.4.0\res
+com.example.suryashaktimain.app-ui-graphics-release-44 C:\Users\ADMIN\.gradle\caches\8.13\transforms\da86ea8b58360aa0d9a60a64e71aa112\transformed\ui-graphics-release\res
+com.example.suryashaktimain.app-lifecycle-process-2.8.7-45 C:\Users\ADMIN\.gradle\caches\8.13\transforms\e1bafee32a2c535509eb4db868499339\transformed\lifecycle-process-2.8.7\res
+com.example.suryashaktimain.app-animation-core-release-46 C:\Users\ADMIN\.gradle\caches\8.13\transforms\e1e5a69b2f2803e7212f433c1afccf7e\transformed\animation-core-release\res
+com.example.suryashaktimain.app-lifecycle-viewmodel-compose-release-47 C:\Users\ADMIN\.gradle\caches\8.13\transforms\e484716bd33e612775a815a6abb7de35\transformed\lifecycle-viewmodel-compose-release\res
+com.example.suryashaktimain.app-core-ktx-1.15.0-48 C:\Users\ADMIN\.gradle\caches\8.13\transforms\e55c87b1a6f5a6980391ffc47f924456\transformed\core-ktx-1.15.0\res
+com.example.suryashaktimain.app-ui-geometry-release-49 C:\Users\ADMIN\.gradle\caches\8.13\transforms\e9f3d794e4f7033f38578bee1ffdebef\transformed\ui-geometry-release\res
+com.example.suryashaktimain.app-ui-util-release-50 C:\Users\ADMIN\.gradle\caches\8.13\transforms\eca13a2319927427c51c9216bb22e5fb\transformed\ui-util-release\res
+com.example.suryashaktimain.app-navigation-runtime-2.8.5-51 C:\Users\ADMIN\.gradle\caches\8.13\transforms\f2e161a9471742a86b2e1e7b5dcfa601\transformed\navigation-runtime-2.8.5\res
+com.example.suryashaktimain.app-lifecycle-livedata-core-2.8.7-52 C:\Users\ADMIN\.gradle\caches\8.13\transforms\f2fca48f317dd51b568cfd73da3ac9ac\transformed\lifecycle-livedata-core-2.8.7\res
+com.example.suryashaktimain.app-pngs-53 C:\Users\ADMIN\OneDrive\Desktop\my code\suryashaktimain\app\build\generated\res\pngs\debug
+com.example.suryashaktimain.app-resValues-54 C:\Users\ADMIN\OneDrive\Desktop\my code\suryashaktimain\app\build\generated\res\resValues\debug
+com.example.suryashaktimain.app-updated_navigation_xml-55 C:\Users\ADMIN\OneDrive\Desktop\my code\suryashaktimain\app\build\generated\updated_navigation_xml\debug
+com.example.suryashaktimain.app-packageDebugResources-56 C:\Users\ADMIN\OneDrive\Desktop\my code\suryashaktimain\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.suryashaktimain.app-packageDebugResources-57 C:\Users\ADMIN\OneDrive\Desktop\my code\suryashaktimain\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.suryashaktimain.app-debug-58 C:\Users\ADMIN\OneDrive\Desktop\my code\suryashaktimain\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.suryashaktimain.app-debug-59 C:\Users\ADMIN\OneDrive\Desktop\my code\suryashaktimain\app\src\debug\res
+com.example.suryashaktimain.app-main-60 C:\Users\ADMIN\OneDrive\Desktop\my code\suryashaktimain\app\src\main\res

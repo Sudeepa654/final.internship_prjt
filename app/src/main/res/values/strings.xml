@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Surya Shakti</string>
+    <string name="title">Surya-Shakti Solar Monitor</string>
+    <string name="subtitle">Personal Visual Energy Budget</string>
+    <string name="generation_log">Generation Log</string>
+    <string name="consumption_tracker">Consumption Tracker</string>
+    <string name="battery_rate">Battery and Tariff</string>
+    <string name="savings_report">Savings Report</string>
+    <string name="simulate_generation">Simulate Weather Generation</string>
+    <string name="calculate_budget">Calculate Energy Budget</string>
+</resources>
